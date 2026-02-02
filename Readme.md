@@ -1,4 +1,4 @@
-# Learning Nim with Advent of Code 2024
+# Learning Odin with Advent of Code 2024
 
 This repository is part of my ongoing effort to learn new programming languages. For this repo, I’m focusing on **Nim**.
 
